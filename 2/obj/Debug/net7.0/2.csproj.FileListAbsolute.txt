@@ -1,0 +1,14 @@
+F:\Homework\cishark_hm\Recursion\2\bin\Debug\net7.0\2.exe
+F:\Homework\cishark_hm\Recursion\2\bin\Debug\net7.0\2.deps.json
+F:\Homework\cishark_hm\Recursion\2\bin\Debug\net7.0\2.runtimeconfig.json
+F:\Homework\cishark_hm\Recursion\2\bin\Debug\net7.0\2.dll
+F:\Homework\cishark_hm\Recursion\2\bin\Debug\net7.0\2.pdb
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.dll
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\refint\2.dll
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.pdb
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+F:\Homework\cishark_hm\Recursion\2\obj\Debug\net7.0\ref\2.dll
